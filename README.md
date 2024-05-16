@@ -1,6 +1,5 @@
 # CubeMutationProject
-
-Developed with Unreal Engine 5
+This game is made by me (Cat, a noob beginner), and developed with Unreal Engine 5. It's an open source project to help me learn and get better with Unreal and C++! Since my only goal is to get better and better, I would higly like to get some feedbacks about my code!!!
 
 
 
