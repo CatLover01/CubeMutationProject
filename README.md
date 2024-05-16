@@ -13,3 +13,7 @@ For everything related to blueprint (i.e. not C++), the information is encrypted
 # C++
 For everything related to C++, it's located in:
 - Source -> CubeMutationProject
+
+
+# What's the game about ?
+You basically have 2 minutes and 15 seconds to get a max ammount of points by clicking on targets! Everything is well explained once you are in the game... 
